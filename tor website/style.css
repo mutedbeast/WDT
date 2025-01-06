@@ -1,0 +1,76 @@
+body{
+    background-color:#59316b;
+}
+.header{
+        background-color : #59316b;
+        display : flex;
+        justify-content : space-between; 
+        align-items : center;
+}
+.logo{
+    position : relative;
+    width : 10%;
+    float : left;
+}
+navbar{
+    position : relative;
+}
+.header1{
+    background-color : #59316b;
+    text-align : center;
+    color : white;
+    font-family : Source Sans Pro Light;
+    font-size : 60;
+}
+.header_text {
+    font-size :70px
+}
+.download_button{
+    background-color : #59316b;
+    color : white;
+    height : 10%;
+    border-radius : 7px;
+    text-align : center
+}
+h1{
+        font-family : Source Sans Pro Light;
+}
+.footer {
+    background-color : #59316b;
+}
+.pattern{
+    width:40%;
+    position : relative;
+}
+lr{
+    text-align : center;
+    margin : 7px;
+    font-family : Source Sans Pro Light;
+    color : white;
+}
+.about_us{
+    background-color:white;
+    color : #484848;
+}
+footer{
+    color : white;
+    font-family : Source Sans Pro Light;
+}
+.our_mission{
+    font-weight: bold;
+}
+.donate{
+    background-color : #ffbf00;
+    border-radius : 5px;
+    padding : 10px;
+}
+.pattern {
+    position : relative;
+
+}
+.fleex{
+    display:flex;
+}
+.download_tor{
+    margin : 20px;
+}
